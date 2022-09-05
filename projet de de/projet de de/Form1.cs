@@ -6,5 +6,10 @@ namespace projet_de_de
         {
             InitializeComponent();
         }
+
+        private void btn_brasser_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show()
+        }
     }
 }

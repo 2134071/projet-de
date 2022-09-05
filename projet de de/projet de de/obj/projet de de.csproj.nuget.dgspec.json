@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\projet de de\\projet de de\\projet de de.csproj": {}
+    "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\EXERCICE IMPORTANT\\projet-de\\projet de de\\projet de de\\projet de de.csproj": {}
   },
   "projects": {
-    "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\projet de de\\projet de de\\projet de de.csproj": {
+    "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\EXERCICE IMPORTANT\\projet-de\\projet de de\\projet de de\\projet de de.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\projet de de\\projet de de\\projet de de.csproj",
+        "projectUniqueName": "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\EXERCICE IMPORTANT\\projet-de\\projet de de\\projet de de\\projet de de.csproj",
         "projectName": "projet de de",
-        "projectPath": "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\projet de de\\projet de de\\projet de de.csproj",
+        "projectPath": "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\EXERCICE IMPORTANT\\projet-de\\projet de de\\projet de de\\projet de de.csproj",
         "packagesPath": "C:\\Users\\utilisateur\\.nuget\\packages\\",
-        "outputPath": "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\projet de de\\projet de de\\obj\\",
+        "outputPath": "D:\\application de technique de l'informatique\\session 3\\programmation objet 2\\cours4\\EXERCICE IMPORTANT\\projet-de\\projet de de\\projet de de\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
