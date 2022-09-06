@@ -1,0 +1,17 @@
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\bin\Debug\net6.0-windows\projet de de.exe
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\bin\Debug\net6.0-windows\projet de de.deps.json
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\bin\Debug\net6.0-windows\projet de de.runtimeconfig.json
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\bin\Debug\net6.0-windows\projet de de.dll
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\bin\Debug\net6.0-windows\projet de de.pdb
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet de de.csproj.AssemblyReference.cache
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet_de_de.Form1.resources
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet de de.csproj.GenerateResource.cache
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet de de.GeneratedMSBuildEditorConfig.editorconfig
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet de de.AssemblyInfoInputs.cache
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet de de.AssemblyInfo.cs
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet de de.csproj.CoreCompileInputs.cache
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet de de.dll
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\refint\projet de de.dll
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet de de.pdb
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\projet de de.genruntimeconfig.cache
+D:\application de technique de l'informatique\session 3\programmation objet 2\cours4\EXERCICE IMPORTANT\projet-de\projet de de\projet de de\obj\Debug\net6.0-windows\ref\projet de de.dll
